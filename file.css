@@ -23,28 +23,27 @@ article, aside, footer {
     margin: 1em;
 }
 
-/* article {
-    border-right: 1px double #222222;
-    border-left: 1px double #222222;
-} */
-
 a {
     color: #747ce9;
 }
 
-a:hover {
-    color: #704fe8;
-    text-decoration: none;
-}
+
 
 footer {
     color: #8a4fe8;
+}
+
+#current, #background, #future-plans, {
+    border-left: 1px double #8074e9;
+    border-bottom: 1px double #8674e9;
 }
 
 
 #contact-section {
     
 }
+
+
 
 #submit-button {
     color: #8a8a8e;
@@ -65,22 +64,15 @@ footer {
     box-shadow: none;
 }
 
+
+
 #img-circle {
     border-radius: 50%;
 }
-
-.container {
-    display: flex;
-    flex-direction: row;
-    justify-content: left;
-}
-
 .child {
     display:inline;
     margin: auto;
 }
-
-
 .navbar {
     /* .bg-light uses important and we need to override that. */
     background-color: #dddcea!important;
