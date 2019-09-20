@@ -33,7 +33,7 @@ footer {
     color: #8a4fe8;
 }
 
-#current, #background, #future-plans, {
+#current, #future-plans, {
     border-left: 1px double #8074e9;
     border-bottom: 1px double #8674e9;
 }
@@ -55,10 +55,6 @@ footer {
     color: white;
 }
 
-#submit-button:active {
-    background-color: #594fe8;
-    box-shadow: none;
-}
 
 #submit-button:focus {
     box-shadow: none;
