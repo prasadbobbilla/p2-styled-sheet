@@ -1,4 +1,4 @@
-#img-circle {
+img {
     border-radius: 50%;
 }
 body {
@@ -63,13 +63,6 @@ footer {
 #submit-button:focus {
     box-shadow: none;
 }
-
-
-
-#img-circle {
-    border-radius: 50%;
-}
-
 
 
 .child {
